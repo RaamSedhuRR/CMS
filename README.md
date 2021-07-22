@@ -1,1 +1,1 @@
-# CMS
+# College Management System
